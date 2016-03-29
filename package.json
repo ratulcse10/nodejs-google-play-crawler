@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-google-play-crawler",
+  "version": "1.0.0",
+  "description": "A Simple Crawler to extract a Single Google Play App Page made by NodeJS, Request, Express and Cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ratulcse10/nodejs-google-play-crawler.git"
+  },
+  "author": "Abu Shahriar Ratul",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/ratulcse10/nodejs-google-play-crawler/issues"
+  },
+  "dependencies": {
+    "request": "~2.69.0",
+    "cheerio": "~0.20.0",
+    "express": "~4.13.4",
+    "mysql": "~2.10.2"
+  }
+}
